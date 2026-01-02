@@ -5,7 +5,7 @@
 - [#3：Flex 排版](https://hackmd.io/@DmGK-94wQUm7poQV9U1fGg/r1X15m2QWg)
 - [#4：絕對.相對位置 ](https://hackmd.io/@DmGK-94wQUm7poQV9U1fGg/Hy9rZZ-4-x)
 - [#5：建立商品列表/ 名片練習 ](https://hackmd.io/@DmGK-94wQUm7poQV9U1fGg/rywXPZ-VWg)
-- [#6：關於表格、表單的設定 ](https://hackmd.io/@DmGK-94wQUm7poQV9U1fGg/r175iJBNbe）)
+- [#6：關於表格、表單的設定 ](https://hackmd.io/@DmGK-94wQUm7poQV9U1fGg/r175iJBNbe)
 
 
 
