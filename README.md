@@ -8,5 +8,8 @@
 - [#6：關於表格、表單的設定 ](https://hackmd.io/@DmGK-94wQUm7poQV9U1fGg/r175iJBNbe)
 - [#7：css一些常用樣式(待補充) ](https://hackmd.io/@DmGK-94wQUm7poQV9U1fGg/B1FINyErWx)
 
+# 響應式練習
 
+[pure.css：表單整合至網頁](https://codepen.io/Brussels-the-sasster/pen/QwEgjzL)
 
+[表單設計：文字欄位並非只有「text」](https://codepen.io/Brussels-the-sasster/pen/raLOKBd?editors=1100)
